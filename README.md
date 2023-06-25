@@ -1,3 +1,3 @@
 # Foodie
-#This is front-end
-# go to this link for back end: https://github.com/HoViet0107/Foodie-Admin
+#This is user ui
+# go to this link for admin: https://github.com/HoViet0107/Foodie-Admin
